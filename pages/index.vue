@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        jonassarcilla
+        Hi! I'm Jonas Rafael Sarcilla
       </h1>
       <h2 class="subtitle">
         My personal portfolio site
