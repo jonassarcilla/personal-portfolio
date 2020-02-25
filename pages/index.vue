@@ -6,7 +6,7 @@
         Hi! I'm Jonas Rafael Sarcilla
       </h1>
       <h2 class="subtitle">
-        My personal portfolio site
+        Web/Software Developer
       </h2>
       <div class="links">
         <a
